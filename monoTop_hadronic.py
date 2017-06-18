@@ -7,7 +7,7 @@ import ROOT
 import math
 
 if len(sys.argv) < 2:
-  print " Usage: Example1.py input_file"
+  print " Usage: monoTop_hadronic.py input_file"
   sys.exit(1)
 
 ROOT.gSystem.Load("libDelphes")
